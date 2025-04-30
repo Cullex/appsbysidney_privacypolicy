@@ -1,10 +1,10 @@
 Privacy Policy
 
- AppsBySidney respects your privacy and is committed to ensuring that your personal information remains secure. This privacy policy outlines how we handle any information collected or used by AppsBySidney.
+ Softify Solutions respects your privacy and is committed to ensuring that your personal information remains secure. This privacy policy outlines how we handle any information collected or used by Softify Solutions.
 
 Information Collection:
 
-We want to assure our users that AppsBySidney does not collect any personal data, browsing history, or personally identifiable information from its users during the use of the application.
+We want to assure our users that Softify Solutions does not collect any personal data, browsing history, or personally identifiable information from its users during the use of the application.
 
 Usage of Information:
 
@@ -20,4 +20,4 @@ We reserve the right to update or change our privacy policy at any time. Any mod
 
 Contact Us:
 
-If you have any questions or concerns regarding this privacy policy, please contact us at sidyrich@gmail.com.
+If you have any questions or concerns regarding this privacy policy, please contact us at sidney@softifysolutionsgroup.com.
